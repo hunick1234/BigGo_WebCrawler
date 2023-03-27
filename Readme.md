@@ -39,6 +39,4 @@ V.3  get response 若是429 就等一下
   
 - 上敘任一種 + 圖片
   - img ```document.querySelector("#main > div > div.dYFPlI > div > div > div.sdzgsX > div.shopee-search-item-result > div.row.shopee-search-item-result__items > div > a > div > div > div.KMyn8J > div.hpDKMN > div._8-xLHM > div > img")```
-  -
-
-```document.querySelector("#main > div > div.dYFPlI > div > div > div.sdzgsX > div.shopee-search-item-result > div.row.shopee-search-item-result__items > div:nth-child(13) > a > div > div > div.KMyn8J > div.hpDKMN > div.vioxXd.rVLWG6 > span.ZEgDH9")```
+  - ```document.querySelector("#main > div > div.dYFPlI > div > div > div.sdzgsX > div.shopee-search-item-result > div.row.shopee-search-item-result__items > div:nth-child(13) > a > div > div > div.KMyn8J > div.hpDKMN > div.vioxXd.rVLWG6 > span.ZEgDH9")```
